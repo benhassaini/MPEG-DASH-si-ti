@@ -112,3 +112,4 @@ Spatial (SI) and temporal (TI) complexity indicators are computed for content ch
 
 The original video contents (Big Buck Bunny, Sintel) are provided by the Blender Foundation under open licenses.  
 Users must respect the original content licenses when redistributing data.
+The datasets are available on: https://drive.google.com/drive/folders/1ebq3Z-35rfYNmyOAMNXMvTE9xcPE-8m8?usp=sharing
