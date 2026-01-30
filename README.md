@@ -9,7 +9,7 @@ The commands shown below are indicative and describe the general methodology wit
 ## 📌 Test Sequences
 
 - Big Buck Bunny (Blender Foundation)  
-- Sintel (Blender Foundation)
+- Sintel (Blender Foundation).
 
 Source example:  
 https://download.blender.org/demo/movies/BBB/
